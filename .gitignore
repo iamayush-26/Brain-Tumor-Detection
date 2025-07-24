@@ -1,0 +1,6 @@
+# Ignore MATLAB backup and temporary files
+*.asv
+*.m~
+*.fig~
+.DS_Store
+Thumbs.db

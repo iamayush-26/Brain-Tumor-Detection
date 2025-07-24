@@ -52,10 +52,6 @@ It is **not intended for real-world medical diagnosis** or clinical usage.
 
 ---
 
-✅ **WORKING**
-
----
-
 ## ⚙️ Working Process
 
 This project uses MATLAB GUI to detect brain tumors from MRI images in a step-by-step visual manner. Here's how it works:

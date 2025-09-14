@@ -6,12 +6,16 @@
 
 ## 📁 Project Structure
 
-Brain_Tumor_Detection/
-├── sample_mri_images/ # 🖼️ MRI scan image samples
-├── detect_tumor.m # 🧠 Main script for tumor detection
-├── preprocess_image.m # 🧹 Image pre-processing logic
-├── segment_tumor.m # ✂️ Tumor segmentation functions
-└── README.md # 📄 Project documentation
+📂 Project Structure
+
+Brain_Tumor_Detection/ <br>
+├── sample_mri_images/    <br>
+├── detect_tumor.m         <br>
+├── preprocess_image.m      <br>
+├── segment_tumor.m         <br>
+└── README.md       <br>
+
+
 ---
 
 ## ✨ Features

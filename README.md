@@ -45,7 +45,8 @@ Brain_Tumor_Detection/ <br>
 
 ## 🖼️ Sample Output
 
-![Tumor Detection Result](sample_output.png)
+<img width="2222" height="852" alt="image" src="https://github.com/user-attachments/assets/e95c6e39-bb07-48c4-881d-738475b9e460" />
+
 
 ---
 

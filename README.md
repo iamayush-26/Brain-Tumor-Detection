@@ -15,7 +15,6 @@ Brain_Tumor_Detection/ <br>
 ├── segment_tumor.m         <br>
 └── README.md       <br>
 
-
 ---
 
 ## ✨ Features

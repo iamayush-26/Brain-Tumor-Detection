@@ -9,7 +9,7 @@
 📂 Project Structure
 
 Brain_Tumor_Detection/ <br>
-├── sample_mri_images/    <br>
+├── sample_mri_images    <br>
 ├── detect_tumor.m         <br>
 ├── preprocess_image.m      <br>
 ├── segment_tumor.m         <br>
